@@ -25,7 +25,7 @@ Berikut Teman-teman saya di kelas:
 18. [Rizki Al Fatah](https://riskialfattah.github.io/)
 19. [Salwa](https://mhmmd-aziz.github.io/)
 20. [Siti Azzahra](https://sitiazzahraaa.github.io/sitiazzahra.github.io/)
-21. [Siti Hajar](https://sitihajar01.github.io/sitihajar.github.io/)
+21. [Siti Hajar](https://sitihajar01.github.io/sitihajar01.github.io/)
 22. [Syakila Athaya Aufa](https://athayaaufa18.github.io/)
 23. [Tania Ananda Sari](https://mhmmd-aziz.github.io/)
 24. [Tm Dzaky Maulana](https://akbar2224.github.io/akbar2224/)
