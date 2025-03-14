@@ -1,6 +1,6 @@
 ---
 layout: default
-title: friends
+title: friend
 --- 
 
 # friend page
